@@ -1,0 +1,423 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!181963792 &2655988077585873504
+Preset:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: EdgeCollider2D
+  m_TargetType:
+    m_NativeTypeID: 68
+    m_ManagedTypePPtr: {fileID: 0}
+    m_ManagedTypeFallback: 
+  m_Properties:
+  - target: {fileID: 0}
+    propertyPath: m_Enabled
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Density
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Material
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_IsTrigger
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_UsedByEffector
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_UsedByComposite
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Offset.x
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Offset.y
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_EdgeRadius
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.Array.size
+    value: 43
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.Array.data[0].x
+    value: -0.8807454
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.Array.data[0].y
+    value: 0.46846485
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.Array.data[1].x
+    value: -0.88054705
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.Array.data[1].y
+    value: 0.6538141
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.Array.data[2].x
+    value: -0.8226328
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.Array.data[2].y
+    value: 0.65620065
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.Array.data[3].x
+    value: -0.81279755
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.Array.data[3].y
+    value: 0.7096312
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.Array.data[4].x
+    value: -0.7585349
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.Array.data[4].y
+    value: 0.72024846
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.Array.data[5].x
+    value: -0.7475996
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.Array.data[5].y
+    value: 0.77819633
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.Array.data[6].x
+    value: -0.6834154
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.Array.data[6].y
+    value: 0.7826896
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.Array.data[7].x
+    value: -0.68612957
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.Array.data[7].y
+    value: 0.8480358
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.Array.data[8].x
+    value: -0.50401306
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.Array.data[8].y
+    value: 0.84741545
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.Array.data[9].x
+    value: -0.5037136
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.Array.data[9].y
+    value: 0.90013623
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.Array.data[10].x
+    value: -0.44115543
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.Array.data[10].y
+    value: 0.91506886
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.Array.data[11].x
+    value: -0.4301424
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.Array.data[11].y
+    value: 0.9590399
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.Array.data[12].x
+    value: -0.37737513
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.Array.data[12].y
+    value: 0.95980144
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.Array.data[13].x
+    value: -0.36519766
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.Array.data[13].y
+    value: 1.1503417
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.Array.data[14].x
+    value: -0.31711054
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.Array.data[14].y
+    value: 1.1573668
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.Array.data[15].x
+    value: -0.30339098
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.Array.data[15].y
+    value: 1.2138379
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.Array.data[16].x
+    value: -0.2399931
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.Array.data[16].y
+    value: 1.2134728
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.Array.data[17].x
+    value: -0.24322033
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.Array.data[17].y
+    value: 1.2961423
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.Array.data[18].x
+    value: -0.18524742
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.Array.data[18].y
+    value: 1.2882438
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.Array.data[19].x
+    value: -0.17768049
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.Array.data[19].y
+    value: 1.4180727
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.Array.data[20].x
+    value: -0.11897755
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.Array.data[20].y
+    value: 1.426332
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.Array.data[21].x
+    value: -0.11530447
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.Array.data[21].y
+    value: 1.6769624
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.Array.data[22].x
+    value: -0.051313877
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.Array.data[22].y
+    value: 1.6707358
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.Array.data[23].x
+    value: -0.056787968
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.Array.data[23].y
+    value: 1.7227373
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.Array.data[24].x
+    value: 0.21681595
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.Array.data[24].y
+    value: 1.7472575
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.Array.data[25].x
+    value: 0.20769262
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.Array.data[25].y
+    value: 1.6697586
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.Array.data[26].x
+    value: 0.28206158
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.Array.data[26].y
+    value: 1.677171
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.Array.data[27].x
+    value: 0.2804513
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.Array.data[27].y
+    value: 1.6065125
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.Array.data[28].x
+    value: 0.5472183
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.Array.data[28].y
+    value: 1.6200075
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.Array.data[29].x
+    value: 0.54120016
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.Array.data[29].y
+    value: 1.6200075
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.Array.data[30].x
+    value: 0.5206065
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.Array.data[30].y
+    value: 1.6200075
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.Array.data[31].x
+    value: 0.5218272
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.Array.data[31].y
+    value: 1.7282357
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.Array.data[32].x
+    value: 0.7791214
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.Array.data[32].y
+    value: 1.7394357
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.Array.data[33].x
+    value: 0.77422476
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.Array.data[33].y
+    value: 1.3604114
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.Array.data[34].x
+    value: 0.7052598
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.Array.data[34].y
+    value: 1.3594394
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.Array.data[35].x
+    value: 0.6907501
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.Array.data[35].y
+    value: 1.1606257
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.Array.data[36].x
+    value: 0.78851986
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.Array.data[36].y
+    value: 1.1683574
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.Array.data[37].x
+    value: 0.7762265
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.Array.data[37].y
+    value: 0.9700706
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.Array.data[38].x
+    value: 1.0282044
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.Array.data[38].y
+    value: 0.96213746
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.Array.data[39].x
+    value: 1.0238037
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.Array.data[39].y
+    value: 0.5727098
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.Array.data[40].x
+    value: 0.95624065
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.Array.data[40].y
+    value: 0.57765436
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.Array.data[41].x
+    value: 0.9513569
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.Array.data[41].y
+    value: 0.5282073
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.Array.data[42].x
+    value: 0.91243887
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.Array.data[42].y
+    value: 0.5268266
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_AdjacentStartPoint.x
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_AdjacentStartPoint.y
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_AdjacentEndPoint.x
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_AdjacentEndPoint.y
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_UseAdjacentStartPoint
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_UseAdjacentEndPoint
+    value: 0
+    objectReference: {fileID: 0}
+  m_ExcludedProperties: []
